@@ -1,0 +1,24 @@
+{
+	"room_id": "standard"
+	"room_name": "Common Dungeon"
+	"spawn_chance": "0.6"
+	"min_size": "4"
+    "max_size": "12"
+    "min_door_count": "1"
+    "max_door_count": "3"
+    "possible_items": 
+	[
+		{
+			"item_id": "chest"
+			"spawn_chance": "0.3"
+			"min_count": "0"
+			"max_count": "3"
+		},
+		{
+			"item_id": "trap"
+			"spawn_chance": "0.1"
+			"min_count": "0"
+			"max_count": "2"
+		}
+	]
+}
